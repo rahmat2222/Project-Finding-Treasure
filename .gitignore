@@ -2,8 +2,6 @@
 .DS_Store
 .DS_Store?
 
-#public folder
-public
 
 #Configuration Folder
 config.js

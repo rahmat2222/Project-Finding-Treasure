@@ -1,0 +1,14 @@
+[
+null,
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":1089.3333333333333,"scrollY":350.6666666666667},
+{"id":2,"expanded":false,"name":"MAP002","order":2,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":3,"expanded":true,"name":"Rumah","order":4,"parentId":4,"scrollX":1081.3333333333333,"scrollY":350.6666666666667},
+{"id":4,"expanded":true,"name":"Kota Serang","order":3,"parentId":0,"scrollX":1072,"scrollY":1558.6666666666667},
+{"id":5,"expanded":false,"name":"MAP005","order":6,"parentId":0,"scrollX":1089.3333333333333,"scrollY":607.3333333333334},
+{"id":6,"expanded":false,"name":"MAP006","order":7,"parentId":0,"scrollX":1089.3333333333333,"scrollY":350.6666666666667},
+{"id":7,"expanded":false,"name":"Stone Cave","order":8,"parentId":0,"scrollX":1070.6666666666667,"scrollY":1089.3333333333333},
+{"id":8,"expanded":false,"name":"Weapon Shop","order":5,"parentId":4,"scrollX":832,"scrollY":640},
+{"id":9,"expanded":false,"name":"Ice Cave","order":9,"parentId":0,"scrollX":1072,"scrollY":1280},
+{"id":10,"expanded":false,"name":"Lava Cave","order":10,"parentId":0,"scrollX":1081.3333333333333,"scrollY":756},
+{"id":11,"expanded":false,"name":"Cursed Cave","order":11,"parentId":0,"scrollX":1072,"scrollY":1760}
+]

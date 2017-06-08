@@ -1,3 +1,5 @@
+https://mamat.co/rpg-maker-mv-multiplayer-online-finding-treasure/
+
 Game ini membutuhkan server yang terinstal nodejs sebagai server  dan mongodb sebagai database.
 
 Instal terlebih dahulu nodejs dan mongodb.
